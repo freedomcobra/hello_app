@@ -1,4 +1,4 @@
 Ruby on Rails Tutorial: 'hello, world'
 
 This is the first application for
-ruby on rails. There will b more coming.
+ruby on rails. There will be more coming.
